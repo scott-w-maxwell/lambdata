@@ -2,12 +2,12 @@
 lambdata - a collection of data science helper functions for lambda school
 """
 import setuptools
-​
+
 REQUIRED = [
     "numpy",
     "pandas"
 ]
-​
+
 with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
