@@ -12,8 +12,8 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
     name="lambdata-scottwmwork",
-    version = "0.1.1",
-    author = "alekslovesdata",
+    version = "0.1.2",
+    author = "scottwmwork",
     description = "a collection of data science helper functions",
     long_description = LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
