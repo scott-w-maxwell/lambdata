@@ -1,4 +1,4 @@
 # lambdata
 A collection of data science helper functions
 
-#How to install and import package:
+This is a file for making your own package of helper functions
